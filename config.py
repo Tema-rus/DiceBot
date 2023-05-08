@@ -1,2 +1,0 @@
-token: str = ''
-prefix: str = '!'
